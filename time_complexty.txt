@@ -5,3 +5,11 @@ Different types of time complexity
 1.Big o(Worst case)
 2.Theta(Average Case)
 3.Omega(Best Case)
+
+Case         Average Case        Worst Case
+
+1.Copy              o(n)            o(n)
+2.Append            o(1)            o(1)
+3.pop last          o(1)            o(1)
+4.pop intermideiate o(n)            o(n)
+5.
