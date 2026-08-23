@@ -1,0 +1,7 @@
+2. Avoid constant values
+3. Avoid lower values
+
+Different types of time complexity
+1.Big o(Worst case)
+2.Theta(Average Case)
+3.Omega(Best Case)
